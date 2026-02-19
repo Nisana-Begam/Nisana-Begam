@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nisana-Begam
 - 👀 I’m interested in python, SQL, Machine Learning, Tableau, Power BI and bussiness analytics with Excel.
-- 📫 reach me @ nisanabegam@gmail.com and linkedin Id: https://www.linkedin.com/in/nisana-begam-46630390/
+- 📫 reach me @ nisanabegam@gmail.com and linkedin Id: https://www.linkedin.com/in/n-nisana-begam
 
 
 
